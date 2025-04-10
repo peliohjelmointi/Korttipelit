@@ -306,6 +306,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 2c1a6354d1d441c4e97d432a7edc557c, type: 3}
   cardContainer: {fileID: 1566802669}
   cardPrefab: {fileID: 2631041566906186417, guid: 18ed2a204c5a4994e8cf847b5ce4c535, type: 3}
+  cardBackSprite: {fileID: 21300000, guid: 35b1aa564e0affa44b391cd24c36727c, type: 3}
 --- !u!4 &273273539
 Transform:
   m_ObjectHideFlags: 0

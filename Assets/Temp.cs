@@ -8,7 +8,6 @@ public class Temp : MonoBehaviour
     {
         Item sword = new Item("LongSword", swordImage);
     }
-
 }
 
 class Item
